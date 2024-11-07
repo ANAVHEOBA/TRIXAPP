@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Trixapp</string>
+
+    <!-- Welcome Screen -->
+    <string name="welcome_message">Welcome, %1$s!</string>
+    <string name="proud_trixter">You\'re a Proud Trixter.</string>
+    <string name="thank_you">Thank You for Joining the TrixSmart Wallet!</string>
+    <string name="rank_message">You Rank: %1$s</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="footer_message">Begin your blockchain learning journey today by completing tasks and earning rewards. The more you learn, the more you earn.</string>
+
+    <!-- Registration Screen -->
+    <string name="join_waitlist_title">Join the Waitlist and Start\nEarning Trix Points!</string>
+    <string name="join_waitlist_subtitle">Sign up today to be first in line for exclusive rewards and exciting TRIX Points opportunities</string>
+    <string name="full_name_hint">Full Name</string>
+    <string name="email_hint">Email</string>
+    <string name="whatsapp_hint">WhatsApp Number</string>
+    <string name="get_started">Get Started</string>
+
+    <!-- Category Selection Screen -->
+    <string name="choose_category_title">Choose Your Category to\nUnlock Unique Rewards!</string>
+    <string name="choose_category_subtitle">Select the option that best describes you to personalize your Trix experience and maximize your rewards</string>
+    <string name="category_reward_seeker">I\'m a Reward Seeker</string>
+    <string name="category_gamer_tech">I\'m a Gamer/Tech Enthusiast</string>
+    <string name="category_casual_shopper">I\'m a Casual Shopper</string>
+    <string name="category_others">Others</string>
+
+    <!-- Vote Reward Screen -->
+    <string name="vote_reward_title">Vote for Your Preferred\nReward</string>
+    <string name="vote_reward_subtitle">Pick between TCN\'s and NuCoin as your reward of choice.</string>
+    <string name="vote_reward_footer">Boost your chances of earning your preferred reward by completing tasks and sharing your unique referral link. The more tasks you complete and referrals you make, the more you earn!</string>
+    <string name="voters_count">%1$dk Trixers Voted</string>
+
+    <!-- Common -->
+    <string name="error_required_field">This field is required</string>
+    <string name="error_invalid_email">Please enter a valid email address</string>
+    <string name="error_invalid_phone">Please enter a valid phone number</string>
+
+    <!-- Waitlist Success Dialog -->
+    <string name="waitlist_success_title">You have been successfully\nadded to the waitlist!</string>
+    <string name="waitlist_success_message">Use the code below to refer friends and increase your chances of earning your desired reward</string>
+    <string name="share_code">Share Code</string>
+    <string name="go_to_dashboard">Go to Dashboard</string>
+
+    <!-- Home Screen -->
+    <string name="welcome_message">Welcome, %1$s!</string>
+    <string name="proud_trixter">You\'re a Proud Trixter.</string>
+    <string name="thank_you">Thank You for Joining the TrixSmart Wallet!</string>
+    <string name="rank_message">You Rank: %1$s</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="footer_message">Begin your blockchain learning journey today by completing tasks and earning rewards. The more you learn, the more you earn.</string>
+   
+
+   <!-- Connect Wallet Screen -->
+    <string name="wallet_connected">Connected</string>
+    <string name="wallet_disconnected">Disconnected</string>
+
+    <!-- Menu Options -->
+    <string name="menu_home">Home</string>
+    <string name="menu_tasks">Tasks</string>
+    <string name="menu_referrals">Referrals</string>
+    <string name="menu_about">About Us</string>
+    
+
+     <!-- Menu Options -->
+     <string name="current_rankings">Current Rankings</string>
+    <string name="last_updated">Last Updated: 20secs Ago</string>
+
+     <!-- Tasks Screen -->
+    <string name="tasks_title">Compete Challenges and\nEarn More Points</string>
+    <string name="tasks_subtitle">Boost your chances of earning your desired reward by completing various tasks.</string>
+    <string name="tab_one_time">One-Time</string>
+    <string name="tab_daily">Daily</string>
+    <string name="tab_completed">Completed</string>
+
+    <!-- Task Details Screen -->
+    <string name="invite_title">Invite Friends to Join\nTrixreward</string>
+    <string name="share_code">Share Code</string>
+    <string name="invite_description">Share your unique invite code and earn 50 TRX when your friend signs up!</string>
+    
+
+    <!-- Social Share Task Screen -->
+    <string name="social_share_title">Compete Challenges and\nEarn More Points</string>
+    <string name="engage_social_title">Engage with Trixrewrd on Social Media</string>
+    <string name="engage_social_subtitle">Earn more TRX Points by joining the conversation! Comment on our posts and help your fellow miners.</string>
+    <string name="instructions_title">Instructions:</string>
+    <string name="social_instructions">• Find Our Posts: Visit our social media profiles\n• Like &amp; Comment: Engage with our latest post\n• Be Active: Regular engagement increases your chances of earning TRX\n• Stay Updated: Follow us for the latest news</string>
+
+    
+</resources>
